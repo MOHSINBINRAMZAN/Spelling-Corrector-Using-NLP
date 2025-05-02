@@ -1,6 +1,4 @@
-Here's a `README.md` description for a **Spelling Corrector** project using **NLP**, which you can paste into your GitHub repo:
 
----
 
 # 📝 NLP-Based Spelling Corrector
 
